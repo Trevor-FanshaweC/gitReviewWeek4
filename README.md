@@ -2,3 +2,4 @@
 
 Learning about conflicts and how to resolve them. Not personal conflicts tho cuz i tend to stay faaaaaar away from those.
 
+
