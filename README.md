@@ -1,4 +1,5 @@
 # Week 4 - Doing Some Damage with Git
 
-I made another change to the readme file.
+Learning about conflicts and how to resolve them. Not personal conflicts tho cuz i tend to stay faaaaaar away from those.
+
 
